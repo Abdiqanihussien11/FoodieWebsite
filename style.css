@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+h1 {
+    text-align: center;
+    color: green;
+    padding: 20px;
+}
+nav {
+    background: lime;
+    display: grid;
+    place-items: center;
+}
